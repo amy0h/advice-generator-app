@@ -19,11 +19,11 @@ function App() {
     <main>
       <p className='advice-title'>Advice #{advice.id}</p>
       <p className='advice-content'>{advice.advice}</p>
-      <img src='./src/images/pattern-divider-mobile.svg' alt='' className='divider mobile' />
-      <img src='./src/images/pattern-divider-desktop.svg' alt='' className='divider desktop' />
+      <img src='/images/pattern-divider-mobile.svg' alt='' className='divider mobile' />
+      <img src='/images/pattern-divider-desktop.svg' alt='' className='divider desktop' />
       <div className='button-container'>
         <button onClick={fetchData}>
-          <img src='./src/images/icon-dice.svg' alt=''/>
+          <img src='/images/icon-dice.svg' alt=''/>
         </button>
       </div>
     </main>
