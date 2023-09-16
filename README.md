@@ -32,13 +32,13 @@ The app's design is based on the provided design files from Frontend Mentor.
 ![](./design/mobile-design.jpg)
 
 ### Desktop
-![](./design/desktop-preview.jpg)
+![](./design/desktop-design.jpg)
 
 ## Live preview
 ### Mobile
-![](./preview/mobile-design.png)
+![](./preview/mobile_design.png)
 ### Desktop
-![](./preview/mobile-design.png)
+![](./preview/mobile_design.png)
 
 ## Links
 - Live site URL: [Advice Generator App](https://advice-generator-amy0h.netlify.app/)
