@@ -4,8 +4,11 @@
 This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of Contents
-- [The challenge](#the-challenge)
+- [Introduction](#introduction)
+- [The Challenge](#the-challenge)
 - [Built with](#built-with)
+- [Design](#design)
+- [Live Preview](#live-preview)
 - [Links](#links)
 
 ## Introduction
@@ -36,10 +39,10 @@ The app's design is based on the provided design files from Frontend Mentor.
 
 ## Live preview
 ### Mobile
-![](./preview/mobile_design.png)
+![](./preview/mobile_preview.png)
 ### Desktop
-![](./preview/mobile_design.png)
+![](./preview/desktop_preview.png)
 
 ## Links
 - Live site URL: [Advice Generator App](https://advice-generator-amy0h.netlify.app/)
-- Soultion URL: [Github Repository](https://github.com/amy0h/advice-generator-app) 
+- Solution URL: [Github Repository](https://github.com/amy0h/advice-generator-app) 
